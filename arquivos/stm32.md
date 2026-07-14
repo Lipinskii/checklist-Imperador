@@ -18,7 +18,8 @@ O STM32F411CEU6 é um microcontrolador de 32 bits baseado no núcleo Arm Cortex-
 ## Características Elétricas
 
 * Tensão de alimentação de 1.7V-3.6V
-* Consumo típico de 100 µA/MHz em operação e 42 µA a 25°C com a Flash em modo Stop (e tempo de _wakeup_ rápido). O consumo cai para até 9 µA a 25°C com a Flash em modo "Deep power down"
-* Consumo em Modo Standby de 1.8 µA a 25°C (sob tensão de 1.7V sem uso do RTC)
-* Alimentação de Backup utilizada para o RTC, operando na faixa de 1.65V a 3.6V e consumindo tipicamente 1 µA a 25°C
+* Consumo típico de 100 µA/MHz em operação e 42 µA a 25 °C com a Flash em modo Stop (e tempo de _wakeup_ rápido). O consumo cai para até 9 µA a 25 °C com a Flash em modo "Deep power down"
+* Consumo em Modo Standby de 1.8 µA a 25 °C (sob tensão de 1.7V sem uso do RTC)
+* Alimentação de Backup utilizada para o RTC, operando na faixa de 1.65V a 3.6V e consumindo tipicamente 1 µA a 25 °C
 * Oscilador interno RC de 16MHz, oscilador de cristal externo de 4 a 26MHz, e osciladores de 32kHz para o RTC
+* Projetado para operar em ambientes de -40 °C até 85 °C, 105 °C ou 125 °C
